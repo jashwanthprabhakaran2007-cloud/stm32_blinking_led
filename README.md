@@ -21,6 +21,8 @@ The sensor continuously detects the required environmental condition. The sensor
 
 
 ## Program
+```
+
 /* USER CODE BEGIN Header / /*
 
 @file : main.c
@@ -155,6 +157,8 @@ if (HAL_RCC_ClockConfig(&RCC_ClkInitStruct, FLASH_LATENCY_0) != HAL_OK) { Error_
 @param file: pointer to the source file name
 @param line: assert_param error line source number
 @retval None */ void assert_failed(uint8_t file, uint32_t line) { / USER CODE BEGIN 6 / / User can add his own implementation to report the file name and line number, ex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) / / USER CODE END 6 / } #endif / USE_FULL_ASSERT */
+
+```
 
 
 ## Result
