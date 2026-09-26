@@ -160,6 +160,8 @@ if (HAL_RCC_ClockConfig(&RCC_ClkInitStruct, FLASH_LATENCY_0) != HAL_OK) { Error_
 
 ```
 
+##OUTPUT
+<img width="576" height="581" alt="image" src="https://github.com/user-attachments/assets/177a4899-8a4e-4456-9d50-26305920d334" />
 
 ## Result
 
